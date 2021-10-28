@@ -13,6 +13,7 @@
 
   VIEW THE APP AT WORK HERE: https://watch.screencastify.com/v/bQ4btkdcPqU61moArXfb
 
+![Screenshot (46)](https://user-images.githubusercontent.com/89880190/139348415-f02b3420-4fdb-4f84-aa77-dc57337dd223.png)
 
   ## Code Snippets
   Here are some code snippets and what they accomplished. The first code snippet is found in the connection.js file. This connects the app to sequelize which allows a user to use the sequelize library to perform MySQL functionality without using the raw MySQL commands within the MySQL shell. DOTENV is also imported to make use of the database name, user, and password credentials found within a .env file (not uploaded). 
